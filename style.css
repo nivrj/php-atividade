@@ -1,22 +1,22 @@
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #111;
-    color: #f1f1f1;
+    background-color: #5b3535;
+    color: #ca7b7b;
     text-align: center;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #222;
+    background-color: #734545;
     padding: 30px 20px;
-    border-bottom: 3px solid #ffd700;
+    border-bottom: 3px solid #ffffff
 }
 
 header h1 {
     margin: 0;
     font-size: 2em;
-    color: #ffd700;
+    color: #a96565;
 }
 
 header p {
@@ -32,15 +32,15 @@ header p {
 label {
     font-size: 1.1em;
     margin-right: 10px;
-    color: #ffd700;
+    color: #4b1d1d;
 }
 
 select {
     padding: 10px;
     border-radius: 5px;
-    background-color: #222;
-    color: #ffd700;
-    border: 1px solid #ffd700;
+    background-color: #532929;
+    color: #b96b6b;
+    border: 1px solid #b88b8b;
     font-size: 1em;
     cursor: pointer;
 }
@@ -54,17 +54,17 @@ select {
 }
 
 .card {
-    background: #1c1c1c;
+    background: #522222;
     width: 240px;
     padding: 15px;
     border-radius: 10px;
-    box-shadow: 0 0 15px #ffd70055;
+    box-shadow: 0 0 15px #541111;
     transition: transform 0.3s, box-shadow 0.3s;
 }
 
 .card:hover {
     transform: scale(1.05);
-    box-shadow: 0 0 20px #ffd700aa;
+    box-shadow: 0 0 20px #000000;
 }
 
 .card img {
@@ -74,7 +74,7 @@ select {
 
 .card h3 {
     margin: 10px 0 5px;
-    color: #ffd700;
+    color: #c66b6b;
     font-size: 1.2em;
 }
 
@@ -86,8 +86,8 @@ select {
 
 .tag {
     display: inline-block;
-    background: #ffd700;
-    color: #111;
+    background: #6d3030;
+    color: #643b3b;
     padding: 5px 12px;
     border-radius: 15px;
     font-size: 0.8em;
@@ -96,7 +96,7 @@ select {
 
 footer {
     background-color: #222;
-    border-top: 3px solid #ffd700;
+    border-top: 3px solid #6d3030;
     color: #ccc;
     text-align: center;
     padding: 15px;
